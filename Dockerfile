@@ -2,7 +2,7 @@ FROM centos:7
 
 MAINTAINER gonzalo@linux.com.uy
 
-LABEL Jboss app centos-based 
+#LABEL Jboss app centos-based 
 
 RUN yum install -y epel-release && \
     yum install -y vim && \
