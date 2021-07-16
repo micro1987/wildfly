@@ -23,7 +23,7 @@ RUN chown -R jboss: /opt/jboss-7
 
 EXPOSE 8080
 
-USER jboss
+#USER jboss
 
 CMD [ "/opt/jboss-7/wildfly-9.0.0.Final/bin/standalone.sh", "-b", "0.0.0.0"]
 
