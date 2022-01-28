@@ -1,0 +1,9 @@
+FROM ubuntu:latest
+
+MAINTAINER gonzalo@linux.com.uy
+
+#LABEL Jboss app centos-based 
+
+
+     
+    
