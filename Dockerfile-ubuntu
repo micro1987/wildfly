@@ -1,9 +1,0 @@
-FROM ubuntu:18.04
-
-MAINTAINER gonzalo@linux.com.uy
-
-#LABEL Jboss app centos-based 
-
-
-     
-    
